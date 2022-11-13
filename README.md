@@ -1,6 +1,6 @@
 # paintJS
 
-img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSojinn&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSojinn&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kimSojinn&show_icons=true">
 
 <div align="center">
